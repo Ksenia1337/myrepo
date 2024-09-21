@@ -1,2 +1,2 @@
 name=input("имя")
-print("Привет," + name) 
+print("Добрый день," + name) 
